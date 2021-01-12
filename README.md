@@ -27,28 +27,28 @@ To achieve this, DAEMON will design practical algorithms for eight concrete NI-a
 ## Project Coordinator
 
 
-**Fundación IMDEA Networks**: Spain
+![IMDEA_FLAG](https://h2020daemon.eu/wp-content/uploads/2021/01/IMDEA250100.png)**Fundación IMDEA Networks**: Spain
 
 
 ## Technical Manager
 
 
-**NEC Laboratories Europe GmbH**: Germany
+![NEC_FLAG](https://h2020daemon.eu/wp-content/uploads/2021/01/NEChq250100.png)**NEC Laboratories Europe GmbH**: Germany
 
 
 ## International EU Consortium
 
 
-- **Telefónica Investigación y Desarrollo SA**: Madrid
-- **Organismos Tilepikoinonion tis Ellados OTE ae**: Greece
-- **Nokia Bell**: Belgium
-- **Software Radio Systems Limited**: Ireland
-- **ADLINK Technology SARL**: France
-- **WINGS ICT Solutions Information & Communication Technologies IKE**: Greece
-- **Interuniversitair Micro-Electronica Centrum**: Belgium
-- **Universidad de Málaga**: Spain
-- **Universidad Carlos III de Madrid**: Spain
-- **Technische Universiteit Delft**: The Netherlands
+- ![Telefónica_FLAG](https://h2020daemon.eu/wp-content/uploads/2021/01/telef250100.png)**Telefónica Investigación y Desarrollo SA**: Madrid
+- ![OTE_FLAG](https://h2020daemon.eu/wp-content/uploads/2021/01/OTE250100.png)**Organismos Tilepikoinonion tis Ellados OTE ae**: Greece
+- ![NOKIA_FLAG](https://h2020daemon.eu/wp-content/uploads/2021/01/NOKIA_250100.png)**Nokia Bell**: Belgium
+- ![SRS_FLAG](https://h2020daemon.eu/wp-content/uploads/2021/01/srshq250100.png)**Software Radio Systems Limited**: Ireland
+- ![ADLINK_FLAG](https://h2020daemon.eu/wp-content/uploads/2021/01/adlink250100.png)**ADLINK Technology SARL**: France
+- ![WINGS_FLAG](https://h2020daemon.eu/wp-content/uploads/2021/01/wings250100.png)**WINGS ICT Solutions Information & Communication Technologies IKE**: Greece
+- ![IMEC_FLAG](https://h2020daemon.eu/wp-content/uploads/2021/01/imec_logo_250_100.png)**Interuniversitair Micro-Electronica Centrum**: Belgium
+- ![UMA_FLAG](https://h2020daemon.eu/wp-content/uploads/2021/01/uma250100.png)**Universidad de Málaga**: Spain
+- ![UC3M_FLAG](https://h2020daemon.eu/wp-content/uploads/2021/01/UC3M250100.png)**Universidad Carlos III de Madrid**: Spain
+- ![TUDELFT_FLAG](https://h2020daemon.eu/wp-content/uploads/2021/01/TUDelftLogo250100.png)**Technische Universiteit Delft**: The Netherlands
 
 
 ## Sponsor
