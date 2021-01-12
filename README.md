@@ -54,4 +54,4 @@ To achieve this, DAEMON will design practical algorithms for eight concrete NI-a
 ## Sponsor
 
 
-![EU_FLAG](https://h2020daemon.eu/wp-content/uploads/2021/01/tinyeu.jpg): This project has received funding from the European Union’s Horizon 2020 Research and Innovation Programme under grant agreement No. 101017109.
+![EU_FLAG](https://h2020daemon.eu/wp-content/uploads/2021/01/tinyeu.jpg) This project has received funding from the European Union’s Horizon 2020 Research and Innovation Programme under grant agreement No. 101017109.
