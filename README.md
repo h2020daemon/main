@@ -1,4 +1,4 @@
-![DAEMON_LOGO](https://h2020daemon.eu/wp-content/uploads/2021/01/daemonlogo-300x80-1.webp)
+![DAEMON_LOGO](https://h2020daemon.eu/wp-content/uploads/2021/01/cropped-daemonlogo-300x80-1.png)
 
 # DAEMON (Network intelligence for aDAptive and sElf-Learning MObile Networks)
 
