@@ -23,17 +23,23 @@ The advances to NI devised by DAEMON will be applied in practical network settin
 
 To achieve this, DAEMON will design practical algorithms for eight concrete NI-assisted functionalities, carefully selected to achieve the objectives above. The performance of the DAEMON algorithms will be evaluated in real-world conditions via four experimental sites, and at scale with data-driven approaches based on two nationwide traffic measurement datasets, against nine ambitious yet feasible KPI targets.
 
+
 ## Project Coordinator
+
 
 **Fundación IMDEA Networks**: Spain
 
+
 ## Technical Manager
+
 
 **NEC Laboratories Europe GmbH**: Germany
 
+
 ## International EU Consortium
 
-- **Telefónica Investigación y Desarrollo SA **: Madrid
+
+- **Telefónica Investigación y Desarrollo SA**: Madrid
 - **Organismos Tilepikoinonion tis Ellados OTE ae**: Greece
 - **Nokia Bell**: Belgium
 - **Software Radio Systems Limited**: Ireland
@@ -46,5 +52,6 @@ To achieve this, DAEMON will design practical algorithms for eight concrete NI-a
 
 
 ## Sponsor
-  
+
+
 **[EU_H2020](https://ec.europa.eu/programmes/horizon2020/en)**: This project has received funding from the European Union’s Horizon 2020 Research and Innovation Programme under grant agreement No. 101017109.
