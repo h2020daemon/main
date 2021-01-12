@@ -39,17 +39,16 @@ To achieve this, DAEMON will design practical algorithms for eight concrete NI-a
 ## International EU Consortium
 
 
-- ![Telefónica_FLAG](https://h2020daemon.eu/wp-content/uploads/2021/01/telef250100.png)
-   **Telefónica Investigación y Desarrollo SA**: Madrid
-- ![OTE_FLAG](https://h2020daemon.eu/wp-content/uploads/2021/01/OTE250100.png) **Organismos Tilepikoinonion tis Ellados OTE ae**: Greece
-- ![NOKIA_FLAG](https://h2020daemon.eu/wp-content/uploads/2021/01/NOKIA_250100.png) **Nokia Bell**: Belgium
-- ![SRS_FLAG](https://h2020daemon.eu/wp-content/uploads/2021/01/srshq250100.png) **Software Radio Systems Limited**: Ireland
-- ![ADLINK_FLAG](https://h2020daemon.eu/wp-content/uploads/2021/01/adlink250100.png) **ADLINK Technology SARL**: France
-- ![WINGS_FLAG](https://h2020daemon.eu/wp-content/uploads/2021/01/wings250100.png) **WINGS ICT Solutions Information & Communication Technologies IKE**: Greece
-- ![IMEC_FLAG](https://h2020daemon.eu/wp-content/uploads/2021/01/imec_logo_250_100.png) **Interuniversitair Micro-Electronica Centrum**: Belgium
-- ![UMA_FLAG](https://h2020daemon.eu/wp-content/uploads/2021/01/uma250100.png) **Universidad de Málaga**: Spain
-- ![UC3M_FLAG](https://h2020daemon.eu/wp-content/uploads/2021/01/UC3M250100.png) **Universidad Carlos III de Madrid**: Spain
-- ![TUDELFT_FLAG](https://h2020daemon.eu/wp-content/uploads/2021/01/TUDelftLogo250100.png) **Technische Universiteit Delft**: The Netherlands
+- ![Telefónica_FLAG](https://h2020daemon.eu/wp-content/uploads/2021/01/telef250100.png)  **Telefónica Investigación y Desarrollo SA**: Madrid
+- ![OTE_FLAG](https://h2020daemon.eu/wp-content/uploads/2021/01/OTE250100.png)  **Organismos Tilepikoinonion tis Ellados OTE ae**: Greece
+- ![NOKIA_FLAG](https://h2020daemon.eu/wp-content/uploads/2021/01/NOKIA_250100.png)  **Nokia Bell**: Belgium
+- ![SRS_FLAG](https://h2020daemon.eu/wp-content/uploads/2021/01/srshq250100.png)  **Software Radio Systems Limited**: Ireland
+- ![ADLINK_FLAG](https://h2020daemon.eu/wp-content/uploads/2021/01/adlink250100.png)  **ADLINK Technology SARL**: France
+- ![WINGS_FLAG](https://h2020daemon.eu/wp-content/uploads/2021/01/wings250100.png)  **WINGS ICT Solutions Information & Communication Technologies IKE**: Greece
+- ![IMEC_FLAG](https://h2020daemon.eu/wp-content/uploads/2021/01/imec_logo_250_100.png)  **Interuniversitair Micro-Electronica Centrum**: Belgium
+- ![UMA_FLAG](https://h2020daemon.eu/wp-content/uploads/2021/01/uma250100.png)  **Universidad de Málaga**: Spain
+- ![UC3M_FLAG](https://h2020daemon.eu/wp-content/uploads/2021/01/UC3M250100.png)  **Universidad Carlos III de Madrid**: Spain
+- ![TUDELFT_FLAG](https://h2020daemon.eu/wp-content/uploads/2021/01/TUDelftLogo250100.png)  **Technische Universiteit Delft**: The Netherlands
 
 
 ## Sponsor
